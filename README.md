@@ -1,5 +1,4 @@
-- 🔭 I’m currently working on the FSU Jena
-- 🌱 I’m currently learning Informatik master of science
+- 🔭 I’m currently working at @bitside
 ```
               __ __
             ,;::\::\
