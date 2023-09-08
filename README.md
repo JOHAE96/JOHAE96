@@ -11,7 +11,9 @@ my-skils -->
 | **OS**                                          | ![macos Badge](https://img.shields.io/badge/-MacOS-3776AB?style=flat&logo=apple)<img src="https://camo.githubusercontent.com/9c4bc049e33f41f122342a1714ccf872c34098a9f2c593c33c2322cf0129fa04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475" alt="Ubuntu" data-canonical-src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&amp;logo=ubuntu" style="max-width: 100%;">  |
 | **Tools & Platform**                            | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)                                                                                                                                                                                                                                                                          |
 
+ ![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHAE96&theme=radical&layout=compact)
 
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOHAE96"></img> -->
 ```
               __ __
             ,;::\::\
